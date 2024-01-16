@@ -52,9 +52,12 @@ Here are some ideas to get you started:
 
 
 <br>
-
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jesus-rodriguez-madrid-14a297179" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hn.linkedin.com/in/jesus-rodriguez-madrid-14a297179?trk=profile-badge">Jesus Rodriguez Madrid</a></div>
+              
+
 <div align='left'>
 
 
