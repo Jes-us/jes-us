@@ -27,10 +27,5 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-[![Mira el video en YouTube](https://img.youtube.com/vi/KTuax3V7XTs/0.jpg)](https://www.youtube.com/watch?v=KTuax3V7XTs)
-
 [![Mira el video en YouTube](https://img.youtube.com/vi/KTuax3V7XTs/1.jpg)](https://www.youtube.com/watch?v=KTuax3V7XTs)
-[![Mira el video en YouTube](https://img.youtube.com/vi/KTuax3V7XTs/2.jpg)](https://www.youtube.com/watch?v=KTuax3V7XTs)
-[![Mira el video en YouTube](https://img.youtube.com/vi/KTuax3V7XTs/3.jpg)](https://www.youtube.com/watch?v=KTuax3V7XTs)
 
