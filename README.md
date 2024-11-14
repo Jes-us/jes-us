@@ -30,4 +30,7 @@
 
 [![Mira el video en YouTube](https://img.youtube.com/vi/KTuax3V7XTs/0.jpg)](https://www.youtube.com/watch?v=KTuax3V7XTs)
 
+[![Mira el video en YouTube](https://img.youtube.com/vi/KTuax3V7XTs/1.jpg)](https://www.youtube.com/watch?v=KTuax3V7XTs)
+[![Mira el video en YouTube](https://img.youtube.com/vi/KTuax3V7XTs/2.jpg)](https://www.youtube.com/watch?v=KTuax3V7XTs)
+[![Mira el video en YouTube](https://img.youtube.com/vi/KTuax3V7XTs/3.jpg)](https://www.youtube.com/watch?v=KTuax3V7XTs)
 
