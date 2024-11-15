@@ -36,7 +36,7 @@
   ![Cloud Messaging](https://img.shields.io/badge/Cloud%20Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black)
   ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white)
 
-- **Databases**:
+- **Bases de Datos**:
 
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
@@ -45,12 +45,12 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-- **Tools**:
+- **Herramientas**:
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
-- **Operating Systems**:
+- **Sistemas Operativos**:
 
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
   ![AIX](https://img.shields.io/badge/AIX-052FAD?style=flat-square&logo=ibm&logoColor=white)
@@ -94,7 +94,7 @@
     <tr>
       <td align="center">
         <h3>Cool Movies</h3>
-        <p><b>Descripción Técnica:</b>Aplicación creada con Flutter y Dart lista las peliculas disponibles, permitiendo a los usuarios hacer comentarios y dar rate, Clean Architecture, State management lo hago con BLOC. el backend es un contenedor Docker, base de datos Postgress y la comunicación entre front y back se hace por medio de Graphql permitiendo consultas fuera de linea.</p>
+        <p><b>Descripción Técnica:</b>Aplicación creada con Flutter y Dart lista las peliculas disponibles, permitiendo a los usuarios hacer comentarios y dar rate, Clean Architecture, State management lo hago con BLOC. el backend es un contenedor Docker, base de datos PostgreSQL y la comunicación entre Frontend y Backend se hace por medio de Graphql permitiendo consultas fuera de linea.</p>
         <p>
           <a href="https://www.youtube.com/watch?v=KTuax3V7XTs">
             <img src="https://img.youtube.com/vi/KTuax3V7XTs/1.jpg" alt="Mira el video de CoolMovies en YouTube" width="300">
