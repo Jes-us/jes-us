@@ -14,6 +14,8 @@
   ![Dart](https://img.shields.io/badge/DART-Maker?style=Plastic&logo=dart&color=f00000)
   ![PLSQL](https://img.shields.io/badge/PL%2FSQL-Maker?style=flat%20square&color=FB6542)
   ![C](https://img.shields.io/badge/C%2B%2B-Maker?style=flat%20square&logo=cplusplus&color=598234)
+  ![C](https://img.shields.io/badge/Node.js-v18.17.1-brightgreen?logo=node.js)
+  
   
 - **Frameworks**:
 
