@@ -72,7 +72,7 @@
 </p>
 
 
-
+https://youtube.com/shorts/E1OBgd72yOE
 <!-- Tarjeta de Proyecto 1 -->
 <div align="center" style="margin: 20px;">
   <table width="80%" style="border-collapse: collapse;">
@@ -81,9 +81,9 @@
         <h3>🍽️ Food Tracker</h3>
         <p><b>Descripción Técnica:</b> Aplicación de seguimiento de alimentos desarrollada en Flutter,Arquitectura MVVM,el statemanagement se hace con Provider, Utiliza una base de datos SQLLite para almacenar la información consultada a OpenFoodFacts.</p>
         <p>
-          <a href="https://www.youtube.com/watch?v=https://youtube.com/shorts/E1OBgd72yOE">
-            <img src="https://img.youtube.com/vi/https://youtube.com/shorts/E1OBgd72yOE/1.jpg" alt="Mira el video de Food Tracker en YouTube" width="300">
-          </a>
+        <a href="https://www.youtube.com/watch?v=E1OBgd72yOE">
+  <img src="https://img.youtube.com/vi/E1OBgd72yOE/1.jpg" alt="Mira el video de Food Tracker en YouTube" width="300">
+</a>
         </p>
       </td>
     </tr>
@@ -106,3 +106,6 @@
     </tr>
   </table>
 </div>
+
+Visita mi portafolio en GitHub Pages: [https://jes-us.github.io](https://jes-us.github.io)
+
