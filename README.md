@@ -1,7 +1,7 @@
 <!-- Encabezado con texto animado -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mobile+Developer+/+Agility+Enthusiast;Flutter+Developer;Active+Learner;Love+to+learn+new+things..❤️">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mobile+Developer+/+Agility+Enthusiast;Flutter+Developer;Active+Learner;Love+to+learn+new+things..">
   </a>
 </p>
 
@@ -71,8 +71,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-
-https://youtube.com/shorts/E1OBgd72yOE
 <!-- Tarjeta de Proyecto 1 -->
 <div align="center" style="margin: 20px;">
   <table width="80%" style="border-collapse: collapse;">
