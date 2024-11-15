@@ -80,7 +80,7 @@
         <p><b>Descripción Técnica:</b> Aplicación de seguimiento de alimentos desarrollada en Flutter,Arquitectura MVVM,el statemanagement se hace con Provider, Utiliza una base de datos SQLLite para almacenar la información consultada a OpenFoodFacts.</p>
         <p>
         <a href="https://www.youtube.com/watch?v=E1OBgd72yOE">
-  <img src="https://img.youtube.com/vi/E1OBgd72yOE/1.jpg" alt="Mira el video de Food Tracker en YouTube" width="300">
+  <img src="https://img.youtube.com/vi/E1OBgd72yOE/0.jpg" alt="Mira el video de Food Tracker en YouTube" width="300">
 </a>
         </p>
       </td>
