@@ -105,5 +105,5 @@
   </table>
 </div>
 
-Visita mi portafolio en GitHub Pages: [https://jes-us.github.io](https://jes-us.github.io)
+Visita mi portafolio en GitHub Pages: [https://jesusrodriguez.netlify.app/)
 
